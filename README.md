@@ -45,13 +45,10 @@
 <h3> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lensmutombo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lensmutombo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/lenscorpx"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-lensmutombo-blue?style=flat-square&logo=twitter"></a>
-<a href="https://dev.to/lenscorpx"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-lenscorpx-blue?style=flat-square&logo=dev.to"></a>
-<a href="https://www.facebook.com/lensml/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-lensml-blue?style=flat-square&logo=Facebook"> </a>
-<a href="https://www.instagram.com/lens_ml/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lensml-blue?style=flat-square&logo=Instagram"> </a>
-<a href="mailto:lensmutombo@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-lensmutombo@outlook.com-red?style=flat-square&logo=Microsoft%20Outlook"></a>
-<a href="mailto:lensmutombo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lensmutombo@gmail.com-orange?style=flat-square&logo=Gmail"></a>
+<a href="https://www.linkedin.com/in/georges-kaputu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-georges-kaputu-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://x.com/georgesgkm007"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-georgesgkm007-blue?style=flat-square&logo=twitter"></a>
+<a href="https://dev.to/georges_kaputu"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-georges_kaputu-blue?style=flat-square&logo=dev.to"></a>
+<a href="mailto:georgesgkm007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-georgesgkm007@gmail.com-orange?style=flat-square&logo=Gmail"></a>
 </p>
 
 ## ❤️ Views and Followers
