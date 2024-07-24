@@ -15,21 +15,7 @@
 - 💼 &nbsp; No code : Flutterflow, Wordpress.
 
 <br/>
-<h3><align=center>🛠 Git Contributions</h3>
-<p>
-  <img
-    align="left"
-    width="51%"
-    alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=GeorgesGkm&show_icons=true&theme=onedark"
-  />
-  <img
-    width="46%"
-    alt="Top langs"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgesGkm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p> 
-  
-<br/>
+
   
 <br/>
 <p align="center">
