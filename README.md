@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🤔 &nbsp; Software Engineer & Data Analyst,
+- 🤔 &nbsp; Software Engineer | Data Engineer | Data Analyst
 - 🎓 &nbsp; Software Engineering Master’s Degree (higher educational and technical institute of Kinshasa | 2014 - 2020).
 
 <h3>🛠 Tech Stack</h3>
